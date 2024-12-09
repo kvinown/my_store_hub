@@ -7,4 +7,8 @@ class RemoveCategory {
   final CategoryRepository repository;
 
   RemoveCategory(this.repository);
+
+  Future<Either<Failure, String>> execute(Category category) {
+    return repository.removeCategory(category);
+  }
 }
