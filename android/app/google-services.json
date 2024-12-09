@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111770954310",
+    "project_id": "mystorehub-3fc20",
+    "storage_bucket": "mystorehub-3fc20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111770954310:android:9eeeeac0dc28c95cf53847",
+        "android_client_info": {
+          "package_name": "com.example.my_store_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArQ2b9SAxt7cq0NaOhbKxbbN11rkr9nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
