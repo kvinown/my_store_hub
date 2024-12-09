@@ -1,7 +1,6 @@
-import 'dart:math';
-
 import 'package:dartz/dartz.dart';
 import 'package:my_store_hub/common/failure.dart';
+import 'package:my_store_hub/domain/entity/point.dart';
 import 'package:my_store_hub/domain/repositories/point_repository.dart';
 
 class GetAllPointsHistory {
