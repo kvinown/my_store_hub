@@ -1,6 +1,23 @@
 import 'package:flutter/material.dart';
 import 'package:my_store_hub/domain/entity/cart.dart';
 import 'package:my_store_hub/domain/entity/product.dart';
+import 'package:my_store_hub/presentation/pages/login_page.dart';
+import 'package:my_store_hub/presentation/pages/member/member_checkout_page.dart';
+import 'package:my_store_hub/presentation/pages/member/member_home_page.dart';
+import 'package:my_store_hub/presentation/pages/member/member_point_page.dart';
+import 'package:my_store_hub/presentation/pages/member/member_transaction_page.dart';
+import 'package:my_store_hub/presentation/pages/member/order_success_page.dart';
+import 'package:my_store_hub/presentation/pages/member/scan_qr_code.dart';
+import 'package:my_store_hub/presentation/pages/profile/profile_page.dart';
+import 'package:my_store_hub/presentation/pages/profile/update_profile_page.dart';
+import 'package:my_store_hub/presentation/pages/splash_page.dart';
+import 'package:my_store_hub/presentation/pages/vendor/category_page.dart';
+import 'package:my_store_hub/presentation/pages/vendor/pos_checkout_page.dart';
+import 'package:my_store_hub/presentation/pages/vendor/pos_page.dart';
+import 'package:my_store_hub/presentation/pages/vendor/product_add_update_page.dart';
+import 'package:my_store_hub/presentation/pages/vendor/product_page.dart';
+import 'package:my_store_hub/presentation/pages/vendor/transaction_page.dart';
+import 'package:my_store_hub/presentation/pages/vendor/vendor_home_page.dart';
 
 const String splashRoute = '/';
 const String loginRoute = '/login';
